@@ -1,6 +1,6 @@
 
-
 public final class UserUtils {
+
     public static User[] uniqueUsers(User[] users) {
         int count = 0;
         int index = 0;
